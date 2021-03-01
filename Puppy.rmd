@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r pressure, echo=FALSE}
 knitr::include_graphics('C:/Users/Bridget/Dropbox/My PC (DESKTOP-LAVAS11)/Documents/Puppy_waving.PNG')
 ```
+
